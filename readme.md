@@ -5,6 +5,6 @@ pip install mcp
 
 Instalar panel web local: MCP Inspector:
 ```bash
-npx @modelcontextprotocol/inspector python3 server.py
+npx @modelcontextprotocol/inspector .venv/bin/python3 main.py
 ```
 
