@@ -1,4 +1,4 @@
-import src.tools.saludar
+import src.tools.listar_directorios
 from src.mcp_server import mcp
 
 if __name__ == "__main__":
